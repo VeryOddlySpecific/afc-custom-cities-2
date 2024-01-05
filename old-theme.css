@@ -1,0 +1,30 @@
+.single-afc-city #main-content {
+    padding-top: 0!important;
+}
+.single-afc-city #site-content #main-body {
+    padding-top: 2rem;
+}
+.single-afc-city #site-content #main-body > .container > h1 { 
+    display: none; 
+}
+.single-afc-city section[id^="american-fence-company-"] {
+    margin-top: 0!important;
+}
+.single-afc-city section[id^="american-fence-company-"] > .afc-cc-section-content > h2:first-child {
+    margin-top: 0!important;
+}
+.single-afc-city section:nth-child(odd):not(#main-body) {
+    background-color: transparent!important;
+}
+.single-afc-city body:not(.single-city) section:nth-child(even) h2
+.single-afc-city section:nth-child(even) a {
+    color: unset;
+}
+.single-afc-city #post-nav,
+.single-afc-city #backbtn {
+    display: none;
+}
+.single-afc-city #main-body h2,
+.single-afc-city #main-body .afc-cc-tel-link {
+    color: unset;
+}

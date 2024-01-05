@@ -1,0 +1,106 @@
+[
+    {
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "phone": "319-512-7946",
+        "address": "9220 Wright Brothers Court",
+        "zip": "52228",
+        "email": "customercarecedarrapids@americafence.com"
+    },
+    {
+        "city": "Des Moines",
+        "state": "IA",
+        "phone": "515-265-6100",
+        "address": "6300 NW Beaver Drive",
+        "zip": "50131",
+        "email": "customercaredesmoines@americafence.com"
+    },
+    {
+        "city": "Sioux City",
+        "state": "IA",
+        "phone": "712-454-7732",
+        "address": "4505 Dustin Dr",
+        "zip": "51111",
+        "email": "customercaresiouxcity@americafence.com"
+    },
+    {
+        "city": "Sioux Falls",
+        "state": "SD",
+        "phone": "605-368-9929",
+        "address": "47061 Charlotte Court",
+        "zip": "57108",
+        "email": "customercaresiouxfalls@americafence.com"
+    },
+    {
+        "city": "Omaha",
+        "state": "NE",
+        "phone": "402-896-6722",
+        "address": "6925 N 94th Plaza",
+        "zip": "68122",
+        "email": "customercareomaha@americafence.com"
+    },
+    {
+        "city": "Fargo",
+        "state": "ND",
+        "phone": "701-515-1045",
+        "address": "1301 41st St N",
+        "zip": "58102",
+        "email": "customercarefargo@americafence.com"
+    },
+    {
+        "city": "Grand Island",
+        "state": "NE",
+        "phone": "308-395-0793",
+        "address": "1605 North Shady Bend Road",
+        "zip": "68801",
+        "email": "customercaregrandisland@americafence.com"
+    },
+    {
+        "city": "Kearney",
+        "state": "NE",
+        "phone": "308-395-0793",
+        "address": "2120 N Ave",
+        "zip": "68847",
+        "email": "customercarekearney@americafence.com"
+    },
+    {
+        "city": "Lincoln",
+        "state": "NE",
+        "phone": "402-467-2511",
+        "address": "3301 N 35th St",
+        "zip": "68504",
+        "email": "customercarelincoln@americafence.com"
+    },
+    {
+        "city": "La Vista",
+        "state": "NE",
+        "phone": "844-401-8447",
+        "address": "12330 Cary Circle",
+        "zip": "68128",
+        "email": "onlinesales@americafence.com"
+    },
+    {
+        "city": "Kansas City",
+        "state": "MO",
+        "phone": "913-307-0306",
+        "address": "2901 E 85th St",
+        "zip": "64132",
+        "email": "customercarekansascity@americafence.com"
+    },
+    {
+        "city": "Madison",
+        "state": "WI",
+        "phone": "608-509-5857",
+        "address": "4701 McFarland Ct.",
+        "zip": "53558",
+        "email": "customercaremadison@americafence.com"
+    },
+    {
+        "city": "Rochester",
+        "state": "MN",
+        "phone": "507-289-0898",
+        "address": "5867 15th St NW",
+        "zip": "55901",
+        "email": "customercarerochester@americafence.com"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "afc-cc-content-heading": {
+        "title": "AFC Content Heading",
+        "description": "Heading to be used at the top of any given AFC Content page.",
+        "content": "<!-- wp:heading --><h2 class='wp-block-heading'><!-- wp:post-title /--></h2><!-- /wp:heading -->",
+        "keywords": "afc, content, heading, title",
+        "postTypes": ["afc-content"]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "content_sections": {
+        "post_type": "afc-content",
+        "args": {
+            "labels": {
+                "name": "Sections",
+                "singular_name": "Section",
+                "all_items": "All Sections",
+                "edit_item": "Edit Section",
+                "add_new_item": "Add New Section",
+                "new_item_name": "New Section Name",
+                "menu_name": "Sections"
+            },
+            "show_ui": true        
+        }        
+    }
+}

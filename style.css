@@ -1,0 +1,10 @@
+.single-afc-city #faqs {
+  display: grid;
+  grid-template-columns: auto;
+  grid-auto-flow: column;
+  grid-gap: 2rem;
+}
+.single-afc-city .afc-cc-section {
+  margin-top: var(--wp--preset--spacing--80);
+}
+/*# sourceMappingURL=style.css.map */

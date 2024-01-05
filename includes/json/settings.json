@@ -1,0 +1,10 @@
+{
+    "afc-cc-univ_content": {
+        "type": "string",
+        "description": "The content to be displayed in the Universal Content section of the AFC Single City."
+    },
+    "afc-cc-imported-data": {
+        "type": "object",
+        "description": "The data imported from the csv importer."
+    }
+}

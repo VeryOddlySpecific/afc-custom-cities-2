@@ -1,0 +1,113 @@
+{
+    "afc-city":{
+        "labels": {
+            "name": "AFC City",
+            "singular_name": "City",
+            "add_new_item": "Add New City",
+            "edit_item": "Edit City",
+            "new_item": "New City",
+            "view_item": "View City",
+            "view_items": "View Cities",
+            "search_items": "Search Cities",
+            "not_found": "No cities found.",
+            "not_found_in_trash": "No cities found in Trash.",
+            "all_items": "All Cities",
+            "archives": "City Archives",
+            "attributes": "City Attributes",
+            "menu_name": "Cities",
+            "item_published": "City published.",
+            "item_published_privately": "City published privately.",
+            "item_reverted_to_draft": "City reverted to draft.",
+            "item_scheduled": "City scheduled.",
+            "item_updated": "City updated."
+        },
+        "description": "AFC City",
+        "public": true,
+        "menu_icon": "dashicons-location",
+        "supports": [
+            "title",
+            "editor",
+            "page-attributes",
+            "custom-fields"
+        ],
+        "has_archive": true,
+        "show_in_rest": true,
+        "show_in_menu": "afc-custom-cities",
+        "taxonomies": [
+            "post_tag"
+        ]
+    },
+    "afc-content": {
+        "labels": {
+            "name": "AFC Content",
+            "singular_name": "Content",
+            "add_new_item": "Add New Content",
+            "edit_item": "Edit Content",
+            "new_item": "New Content",
+            "view_item": "View Content",
+            "view_items": "View Content",
+            "search_items": "Search Content",
+            "not_found": "No content found.",
+            "not_found_in_trash": "No content found in Trash.",
+            "all_items": "All Content",
+            "archives": "Content Archives",
+            "attributes": "Content Attributes",
+            "menu_name": "Content",
+            "item_published": "Content published.",
+            "item_published_privately": "Content published privately.",
+            "item_reverted_to_draft": "Content reverted to draft.",
+            "item_scheduled": "Content scheduled.",
+            "item_updated": "Content updated."
+        },
+        "description": "AFC Content",
+        "public": true,
+        "menu_icon": "dashicons-media-text",
+        "supports": [
+            "title",
+            "editor",
+            "page-attributes",
+            "custom-fields"
+        ],
+        "has_archive": true,
+        "show_in_rest": true,
+        "show_in_menu": "afc-custom-cities",
+        "taxonomies": [
+            "post_tag",
+            "content_sections"
+        ]
+    },
+    "afc-faq": {
+        "labels": {
+            "name": "AFC FAQs",
+            "singular_name": "FAQ",
+            "add_new_item": "Add New FAQ",
+            "edit_item": "Edit FAQ",
+            "new_item": "New FAQ",
+            "view_item": "View FAQ",
+            "view_items": "View FAQs",
+            "search_items": "Search FAQs",
+            "not_found": "No FAQs found.",
+            "not_found_in_trash": "No FAQs found in Trash.",
+            "all_items": "All FAQs",
+            "archives": "FAQ Archives",
+            "attributes": "FAQ Attributes",
+            "menu_name": "FAQs",
+            "item_published": "FAQ published.",
+            "item_published_privately": "FAQ published privately.",
+            "item_reverted_to_draft": "FAQ reverted to draft.",
+            "item_scheduled": "FAQ scheduled.",
+            "item_updated": "FAQ updated."
+        },
+        "description": "AFC FAQs",
+        "public": true,
+        "menu_icon": "dashicons-editor-help",
+        "supports": [
+            "title",
+            "editor",
+            "page-attributes"
+        ],
+        "has_archive": true,
+        "show_in_rest": true,
+        "show_in_menu": "afc-custom-cities"
+    }
+}
